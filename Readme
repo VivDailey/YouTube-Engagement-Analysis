@@ -1,0 +1,43 @@
+# YouTube Engagement Analysis
+
+## Overview
+
+Welcome to the YouTube Engagement Analysis project, where we explore YouTube video engagement using a dataset with metrics such as likes, dislikes, views, and more. In this analysis, I've leveraged the power of Tableau to present a series of data visualizations that offer deep insights into YouTube engagement.
+
+## Report
+
+To access the full analysis and insights, please refer to the [YouTube Engagement Analysis Report (PDF)](link-to-pdf-report).
+
+## Key Insights
+
+1. **Relationship between video likes and views**
+   - Likes and Views: [Visualization Link](https://public.tableau.com/views/LikesAndViews/LikesandViews?:language=en-US&:display_count=n&:origin=viz_share_link)
+   - Type: Scatter plot
+   - Filters: Trending Date, Weekday Publish Time
+   - ...
+
+2. **Top 10 most engaging YouTube videos**
+   - Top 10 Overall Engagements: [Visualization Link](https://public.tableau.com/views/Top10Overall/Top10Overall?:language=en-US&:display_count=n&:origin=viz_share_link)
+   - Type: Square/Box Chart
+   - ...
+
+3. **YouTube video engagement across different days of the week and video categories**
+   - [Dashboard Link](https://public.tableau.com/views/DashboardYoutube2/YoutubeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+   - Visualization Design: Scatter plot for likes and views, grouped bar chart for engagement breakdown by category
+   - ...
+
+## Key Findings
+
+- Music and entertainment videos dominate YouTube engagement.
+- Posting videos on Wednesdays and Fridays seems to capture more attention.
+- Specific channels excel in accumulating likes and comments.
+- Categories like People & Blogs and Education tend to draw substantial views but receive fewer likes or comments.
+
+## Conclusion
+
+This analysis offers a comprehensive view of YouTube engagement dynamics, shedding light on the influence of categories, posting schedules, and video types on likes, dislikes, comments, and views. Content creators, marketers, and researchers can leverage these insights to refine their YouTube strategies and better connect with their audiences.
+
+## Resources
+
+- N/A
+
